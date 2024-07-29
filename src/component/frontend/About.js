@@ -18,8 +18,8 @@ const About = () => {
       <div className="relative z-10 pt-20">
         <div className="text-center text-gray-900 p-8 animate-slide-up">
           <h2 className="text-3xl font-semibold mb-4">ABOUT</h2>
-          <div class="flex mt-2 justify-center">
-            <div class="w-24 h-1 rounded-full bg-indigo-500 inline-flex"></div>
+          <div className="flex mt-2 justify-center">
+            <div className="w-24 h-1 rounded-full bg-indigo-500 inline-flex"></div>
           </div>
           <p className="text-lg mt-4">
             Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex
@@ -88,7 +88,6 @@ const About = () => {
 
       <div className="text-center text-gray-900 p-8 animate-slide-up">
         <h2 className="text-4xl font-semibold mb-4">Skills</h2>
-
         <p className="text-lg mb-4">
           Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex
           aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos
